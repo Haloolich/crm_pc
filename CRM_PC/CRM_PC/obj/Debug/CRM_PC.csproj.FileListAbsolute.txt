@@ -1,0 +1,12 @@
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\bin\Debug\CRM_PC.exe.config
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\bin\Debug\CRM_PC.exe
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\bin\Debug\CRM_PC.pdb
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.csproj.AssemblyReference.cache
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.BookingForm.resources
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.Form1.resources
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.Properties.Resources.resources
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.csproj.GenerateResource.cache
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.csproj.CoreCompileInputs.cache
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.exe
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.pdb
+C:\Users\jeysay\source\repos\CRM_PC\CRM_PC\obj\Debug\CRM_PC.CalculateForm.resources
